@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "280003353937",
+    "project_id": "innochess-c20c7",
+    "storage_bucket": "innochess-c20c7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280003353937:android:6641dcf8a94cd5e2e24770",
+        "android_client_info": {
+          "package_name": "com.innoval.innochess"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQLBn3a5pFsPm1gl4jTTLQUlNPFDDXY0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
